@@ -7,7 +7,7 @@ The design integrates safe **AC to DC conversion**, **power management**, **batt
 ## 📘 Overview
 
 The board uses the **ESP32-S3-WROOM-1 (N8R8)** module as the main microcontroller, with onboard Wi-Fi and Bluetooth connectivity.  
-It includes a **CP2102N** USB-to-UART interface for programming and serial communication, a **TPS54302** buck converter for stable 3.3 V power, and a **TP4056** battery charger with protection circuitry.
+It includes a **CP2102N** USB-C-to-UART interface for programming and serial communication, a **TPS54302** buck converter for stable 3.3 V power, and a **TP4056** battery charger with protection circuitry.
 
 ---
 
